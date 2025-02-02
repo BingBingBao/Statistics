@@ -4,14 +4,14 @@ This repository contains four projects focusing on statistical concepts and stat
 
 ## 1. LLN and CLT (Law of Large Numbers & Central Limit Theorem)
 
-Concepts:
+Introduction:
 
 Demonstrates how the Law of Large Numbers (LLN) ensures that sample averages converge to the population mean as sample size increases.
 Shows how the Central Limit Theorem (CLT) allows non-normally distributed variables to approximate a normal distribution when aggregated.
 
 ## 2. Monte Carlo Simulation
 
-Concepts:
+Introduction:
 
 Introduces the Monte Carlo method for probabilistic risk analysis and numerical approximation.
 Explores random sampling techniques to solve problems that may be difficult to compute deterministically.
