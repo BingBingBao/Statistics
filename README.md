@@ -21,18 +21,18 @@ Simple examples:
 - Estimation of π (Pi) using Monte Carlo methods.
 - Project risk analysis using cost uncertainty simulations.
 - Construction Budget vs Cost Risk Analysis
-- Demonstrate the Central Limit Theorem using MC simulation (using a engineering example)
+- Demonstrate the Central Limit Theorem using MC simulation (using an engineering example)
 
 ## 3. Logistic Regression Model
 
-📌 Concepts:
+Introduction:
 
 focused on binary classification using Logistic Regression.
 Discusses model interpretation, evaluation metrics, and decision boundary visualization.
 
 ## 4. Generalized Linear Models (GLMs)
 
-📌 Concepts:
+Introduction:
 
 An extension of linear regression that accommodates non-normal response variables.
 Covers different distributions such as Poisson (count data), Binomial (classification), and Gamma (skewed data). (To be continued..)
